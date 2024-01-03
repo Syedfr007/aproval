@@ -11,3 +11,4 @@ a
 4-physical-8-logical-unameresultsystem=Windows-node=DESKTOP-K4I0C00-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-60-Stepping-3-GenuineIntel
 4-physical-8-logical-unameresultsystem=Windows-node=DESKTOP-F88BINA-release=10-version=10.0.19044-machine=AMD64Windows-10-10.0.19044-SP0AMD64Intel64-Family-6-Model-60-Stepping-3-GenuineIntel
 2-physical-4-logical-unameresultsystem=Windows-node=DESKTOP-TD2GMCQ-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-58-Stepping-9-GenuineIntel
+2-physical-2-logical-unameresultsystem=Windows-node=DESKTOP-COO0N9L-release=10-version=10.0.18362-machine=AMD64Windows-10-10.0.18362-SP0AMD64Intel64-Family-6-Model-60-Stepping-3-GenuineIntel
